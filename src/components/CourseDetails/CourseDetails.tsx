@@ -71,7 +71,7 @@ const CourseDetails: React.FunctionComponent<ICourseDetailsProps> = (props) => {
             </div>
           </Col>
           <Col lg={6} md={6} sm={12} className='mb-4'>
-            <Player src="https://dl150.y2mate.com/?file=M3R4SUNiN3JsOHJ6WWQ3aTdPRFA4NW1rRVJIODVhTjF3SjRjemdNM1NxUks3YUVxME9HdUo0SUVCN2RFNEl1c1d1aG52aFBSZXRYQUJCYWF1Wlp0Q1Y2VTdjOCtvekhPdUxrcFE5eHdXaC9pbXVXcGx3NGgyMWZsTU5YZFFmNVFaSHQrbkZCaXh5N09pYVB5b0JydHAyaXZvZ2pSU2lrYTVuNVpHL2FWbzdsUGdYcmVlcURzd3BFbnFobklzTXBabFAyTjRFZnh4cjFqbHZzelcxeGtlb0pZelpQNDJxMmQ4eEZQMWMxSmpodjI3L0d3VzVvM1NnPT0%3D">
+            <Player src="https://rr3---sn-q4fl6n6z.googlevideo.com/videoplayback?expire=1666573661&ei=_ZBVY83ILs6k0_wPkNypmAI&ip=154.21.21.136&id=o-AGBw9vMiI3cS1GPsqtvKDcNGkZuc7CcA7fj90yB3Mq4l&itag=22&source=youtube&requiressl=yes&mh=M-&mm=31%2C26&mn=sn-q4fl6n6z%2Csn-vgqsknze&ms=au%2Conr&mv=m&mvi=3&pl=26&initcwndbps=591250&spc=yR2vp0mxgEu72j0rJ0wMldlqI_96-hg&vprv=1&mime=video%2Fmp4&ns=KEuCvB2BQ9NpMZQAzNqb-EkI&cnr=14&ratebypass=yes&dur=143.151&lmt=1666119645685702&mt=1666551687&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=5532434&n=QxadaIow0aONcA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgOO6uA5I6DKIT2151lDVLYW39yElANzsiHyIFGSXtQXMCIQDv8hfMutAt4s888J6TwYiJL-OaUn3yc8ffLHo2tBFVxg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgW-qPNYDUzVgW1Z_d3i2_uGw2YBvS6ScQ1UCj2WCaajICIFGf__bkYUOivPaP_qHiHKnpEbFeBSYvcoKRDlMnnkXw&title=CREED%20III%20%7C%20Official%20Trailer">
               <BigPlayButton position="center" />
             </Player>
           </Col>
